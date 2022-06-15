@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.Orange.testCases.Listeners"/>
+  </listeners>
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="com.Orange.testCases.CandidateDetailsTest">
+        <methods>
+          <include name="DownloadCV" invocation-numbers="0"/>
+          <include name="Setup"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.Orange.testCases.CandidateDetailsTest -->
+      <class name="com.Orange.testCases.EmployeeListTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="Setup"/>
+          <include name="AddEmployees" invocation-numbers="4"/>
+        </methods>
+      </class> <!-- com.Orange.testCases.EmployeeListTest -->
+      <class name="com.Orange.testCases.LoginPageTest">
+        <methods>
+          <include name="loginValidation" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.Orange.testCases.LoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
