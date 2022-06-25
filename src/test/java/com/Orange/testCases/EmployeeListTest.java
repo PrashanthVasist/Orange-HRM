@@ -48,7 +48,6 @@ public class EmployeeListTest extends OrangeBase {
 	{
 		lpt.loginValidation(userName, password);
 		el.AddEmployees(fName, mName, lName, ID, pic, uName, pwd, repwd);
-//		el.EmpRepeat(fName, mName, lName, ID, pic, uName, pwd, repwd);
 	}
 	
 	

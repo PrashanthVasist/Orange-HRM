@@ -72,7 +72,10 @@ public class OrangeBase {
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		
+		log.info("Opening the URL");
 		driver.get(prop.getProperty("url"));
+		log.info("URL opened successfully");
 		
 		return driver;
 	}

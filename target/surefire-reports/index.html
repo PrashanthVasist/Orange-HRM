@@ -23,7 +23,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -37,7 +37,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Suite" class="navigator-link">
-              <span class="suite-name border-passed">Suite</span>
+              <span class="suite-name border-failed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -48,7 +48,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>D:\Maven Projects\OrangeHRM\TestNG.xml</span>
+                    <span>D:\Automation\OrangeHRM\TestNG.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -90,7 +90,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">8 methods,   8 passed</span>
+                    <span class="method-stats">7 methods, 1 failed,   6 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, \Images\Squirtle.png, Squirtle, SquirtleSquirt, ...)">AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, \Images\Squirtle.png, Squirtle, SquirtleSquirt, ...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -101,37 +115,27 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Squirtl...)">AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Squirtl...)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, \Images\Bulbasaur.png, Bulbasaur, BulbaBulb, ...)">AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, \Images\Bulbasaur.png, Bulbasaur, BulbaBulb, ...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pidgeot...)">AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pidgeot...)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, \Images\Pidgeotto.png, Pidgeotto, HaaHaaHaa, Haa...)">AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, \Images\Pidgeotto.png, Pidgeotto, HaaHaaHaa, Haa...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, D:\Java\Eclipse\Testing\OrangeHRM\Images\Bulb...)">AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, D:\Java\Eclipse\Testing\OrangeHRM\Images\Bulb...)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, \Images\Charmander.png, Charmander, PikaPi...)">AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, \Images\Charmander.png, Charmander, PikaPi...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pikachu.png,...)">AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pikachu.png,...)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, \Images\Butterfree.png, Butterfree, FreeFreeFre...)">AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, \Images\Butterfree.png, Butterfree, FreeFreeFre...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, D:\Java\Eclipse\Testing\OrangeHRM\Images\Butter...)">AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, D:\Java\Eclipse\Testing\OrangeHRM\Images\Butter...)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, D:\Java\Eclipse\Testing\OrangeHRM\Images\C...)">AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, D:\Java\Eclipse\Testing\OrangeHRM\Images\C...)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.CandidateDetailsTest" class="method navigator-link" hash-for-method="DownloadCV(Admin, admin123)">DownloadCV(Admin, admin123)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.Orange.testCases.EmployeeListTest" class="method navigator-link" hash-for-method="AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, \Images\Pikachu.png, Pikachu, PikaPikaPee, PikaPikaPe...)">AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, \Images\Pikachu.png, Pikachu, PikaPikaPee, PikaPikaPe...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -151,6 +155,105 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.Orange.testCases.EmployeeListTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, \Images\Squirtle.png, Squirtle, SquirtleSquirt, ...)">
+                  </a> <!-- AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, \Images\Squirtle.png, Squirtle, SquirtleSquirt, ...) -->
+                  <span class="method-name">AddEmployees</span>
+                  <span class="parameters">(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, \Images\Squirtle.png, Squirtle, SquirtleSquirt, SquirtleSquirt)</span>
+                  <div class="stack-trace"><b>"org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=102.0.5005.115)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-R05C0VE&apos;, ip: &apos;192.168.0.105&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.14&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\PRASHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:11275}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b3e665832757338d35106757f2b025f
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy26.click(Unknown Source)
+	at com.OrangeHRM.pages.LoginPage.loginValidation(LoginPage.java:24)
+	at com.Orange.testCases.EmployeeListTest.AddEmployees(EmployeeListTest.java:49)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+... Removed 29 stack frames<br/> org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=102.0.5005.115)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-R05C0VE&apos;, ip: &apos;192.168.0.105&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.14&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\PRASHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:11275}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b3e665832757338d35106757f2b025f
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy26.click(Unknown Source)
+	at com.OrangeHRM.pages.LoginPage.loginValidation(LoginPage.java:24)
+	at com.Orange.testCases.EmployeeListTest.AddEmployees(EmployeeListTest.java:49)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+"</b><br>java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br>java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)<br>java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br>java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)<br>org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)<br>org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)<br>org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)<br>org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)<br>org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)<br>org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)<br>org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)<br>org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)<br>java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br>java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br>java.base/java.lang.reflect.Method.invoke(Method.java:566)<br>org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)<br>com.sun.proxy.$Proxy26.click(Unknown Source)<br>com.OrangeHRM.pages.LoginPage.loginValidation(LoginPage.java:24)<br>com.Orange.testCases.EmployeeListTest.AddEmployees(EmployeeListTest.java:49)<br>java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br>java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br>java.base/java.lang.reflect.Method.invoke(Method.java:566)<br>org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)<br>org.testng.internal.Invoker.invokeMethod(Invoker.java:714)<br>org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)<br>org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)<br>org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)<br>org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)<br>org.testng.TestRunner.privateRun(TestRunner.java:767)<br>org.testng.TestRunner.run(TestRunner.java:617)<br>org.testng.SuiteRunner.runTest(SuiteRunner.java:334)<br>org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)<br>org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)<br>org.testng.SuiteRunner.run(SuiteRunner.java:240)<br>org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br>org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br>org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)<br>org.testng.TestNG.runSuitesLocally(TestNG.java:1123)<br>org.testng.TestNG.run(TestNG.java:1031)<br>org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)<br>org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)<br>org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)<br>org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)<br>org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)<br>org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)<br>org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)<br>
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -159,50 +262,42 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Squirtl...)">
-                  </a> <!-- AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Squirtl...) -->
+                  <a name="AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, \Images\Bulbasaur.png, Bulbasaur, BulbaBulb, ...)">
+                  </a> <!-- AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, \Images\Bulbasaur.png, Bulbasaur, BulbaBulb, ...) -->
                   <span class="method-name">AddEmployees</span>
-                  <span class="parameters">(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Squirtle.png, Squirtle, SquirtleSquirt, SquirtleSquirt)</span>
+                  <span class="parameters">(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, \Images\Bulbasaur.png, Bulbasaur, BulbaBulb, BulbaBulb)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pidgeot...)">
-                  </a> <!-- AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pidgeot...) -->
+                  <a name="AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, \Images\Pidgeotto.png, Pidgeotto, HaaHaaHaa, Haa...)">
+                  </a> <!-- AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, \Images\Pidgeotto.png, Pidgeotto, HaaHaaHaa, Haa...) -->
                   <span class="method-name">AddEmployees</span>
-                  <span class="parameters">(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pidgeotto.png, Pidgeotto, HaaHaaHaa, HaaHaaHaa)</span>
+                  <span class="parameters">(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, \Images\Pidgeotto.png, Pidgeotto, HaaHaaHaa, HaaHaaHaa)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, D:\Java\Eclipse\Testing\OrangeHRM\Images\Bulb...)">
-                  </a> <!-- AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, D:\Java\Eclipse\Testing\OrangeHRM\Images\Bulb...) -->
+                  <a name="AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, \Images\Charmander.png, Charmander, PikaPi...)">
+                  </a> <!-- AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, \Images\Charmander.png, Charmander, PikaPi...) -->
                   <span class="method-name">AddEmployees</span>
-                  <span class="parameters">(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, D:\Java\Eclipse\Testing\OrangeHRM\Images\Bulbasaur.png, Bulbasaur, BulbaBulb, BulbaBulb)</span>
+                  <span class="parameters">(Admin, admin123, Charmander, Charmander, Charmander, 004, \Images\Charmander.png, Charmander, PikaPikaPee, PikaPikaPee)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pikachu.png,...)">
-                  </a> <!-- AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pikachu.png,...) -->
+                  <a name="AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, \Images\Butterfree.png, Butterfree, FreeFreeFre...)">
+                  </a> <!-- AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, \Images\Butterfree.png, Butterfree, FreeFreeFre...) -->
                   <span class="method-name">AddEmployees</span>
-                  <span class="parameters">(Admin, admin123, Pichu, Pikachu, Pikachu, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pikachu.png, Pikachu, PikaPikaPee, PikaPikaPee)</span>
+                  <span class="parameters">(Admin, admin123, Caterpee, Metapod, Butterfree, 012, \Images\Butterfree.png, Butterfree, FreeFreeFree, FreeFreeFree)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, D:\Java\Eclipse\Testing\OrangeHRM\Images\Butter...)">
-                  </a> <!-- AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, D:\Java\Eclipse\Testing\OrangeHRM\Images\Butter...) -->
+                  <a name="AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, \Images\Pikachu.png, Pikachu, PikaPikaPee, PikaPikaPe...)">
+                  </a> <!-- AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, \Images\Pikachu.png, Pikachu, PikaPikaPee, PikaPikaPe...) -->
                   <span class="method-name">AddEmployees</span>
-                  <span class="parameters">(Admin, admin123, Caterpee, Metapod, Butterfree, 012, D:\Java\Eclipse\Testing\OrangeHRM\Images\Butterfree.png, Butterfree, FreeFreeFree, FreeFreeFree)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, D:\Java\Eclipse\Testing\OrangeHRM\Images\C...)">
-                  </a> <!-- AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, D:\Java\Eclipse\Testing\OrangeHRM\Images\C...) -->
-                  <span class="method-name">AddEmployees</span>
-                  <span class="parameters">(Admin, admin123, Charmander, Charmander, Charmander, 004, D:\Java\Eclipse\Testing\OrangeHRM\Images\Charmander.png, Charmander, PikaPikaPee, PikaPikaPee)</span>
+                  <span class="parameters">(Admin, admin123, Pichu, Pikachu, Pikachu, 025, \Images\Pikachu.png, Pikachu, PikaPikaPee, PikaPikaPee)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -223,28 +318,10 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-passed -->
-          <div class="suite-Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.Orange.testCases.CandidateDetailsTest</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="DownloadCV(Admin, admin123)">
-                  </a> <!-- DownloadCV(Admin, admin123) -->
-                  <span class="method-name">DownloadCV</span>
-                  <span class="parameters">(Admin, admin123)</span>
-                  <em>
-(Download CV for Validation)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">D:\Maven Projects\OrangeHRM\TestNG.xml</span>
+            <span class="header-content">D:\Automation\OrangeHRM\TestNG.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -258,7 +335,6 @@
     &lt;classes&gt;
       &lt;class name=&quot;com.Orange.testCases.LoginPageTest&quot;/&gt;
       &lt;class name=&quot;com.Orange.testCases.EmployeeListTest&quot;/&gt;
-      &lt;class name=&quot;com.Orange.testCases.CandidateDetailsTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -272,7 +348,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test (3 classes)</span>
+                <span class="test-name">Test (2 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -298,39 +374,35 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(8);
+data.addRows(7);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'AddEmployees')
 data.setCell(0, 2, 'com.Orange.testCases.EmployeeListTest')
-data.setCell(0, 3, 13792);
+data.setCell(0, 3, 15794);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'AddEmployees')
 data.setCell(1, 2, 'com.Orange.testCases.EmployeeListTest')
-data.setCell(1, 3, 13388);
+data.setCell(1, 3, 14304);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'AddEmployees')
 data.setCell(2, 2, 'com.Orange.testCases.EmployeeListTest')
-data.setCell(2, 3, 11419);
+data.setCell(2, 3, 13420);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'AddEmployees')
 data.setCell(3, 2, 'com.Orange.testCases.EmployeeListTest')
-data.setCell(3, 3, 9387);
+data.setCell(3, 3, 11312);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'DownloadCV')
-data.setCell(4, 2, 'com.Orange.testCases.CandidateDetailsTest')
-data.setCell(4, 3, 9229);
+data.setCell(4, 1, 'AddEmployees')
+data.setCell(4, 2, 'com.Orange.testCases.EmployeeListTest')
+data.setCell(4, 3, 11056);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'AddEmployees')
 data.setCell(5, 2, 'com.Orange.testCases.EmployeeListTest')
-data.setCell(5, 3, 9051);
+data.setCell(5, 3, 10354);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'AddEmployees')
-data.setCell(6, 2, 'com.Orange.testCases.EmployeeListTest')
-data.setCell(6, 3, 9025);
-data.setCell(7, 0, 7)
-data.setCell(7, 1, 'loginValidation')
-data.setCell(7, 2, 'com.Orange.testCases.LoginPageTest')
-data.setCell(7, 3, 5785);
+data.setCell(6, 1, 'loginValidation')
+data.setCell(6, 2, 'com.Orange.testCases.LoginPageTest')
+data.setCell(6, 3, 5418);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
@@ -368,101 +440,88 @@ return data;
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">loginValidation(Admin, admin123)</span>
-                <span class="method-start">12172 ms</span>
+                <span class="method-start">9382 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">19622 ms</span>
+                <span class="method-start">15870 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.Orange.testCases.EmployeeListTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">Setup</span>
-                <span class="method-start">20580 ms</span>
+                <span class="method-start">15991 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pikachu.png,...)</span>
-                <span class="method-start">28141 ms</span>
+                <span class="method-name">AddEmployees(Admin, admin123, Pichu, Pikachu, Pikachu, 025, \Images\Pikachu.png, Pikachu, PikaPikaPee, PikaPikaPe...)</span>
+                <span class="method-start">24551 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">39806 ms</span>
+                <span class="method-start">40878 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">Setup</span>
-                <span class="method-start">40680 ms</span>
+                <span class="method-start">40879 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, D:\Java\Eclipse\Testing\OrangeHRM\Images\Pidgeot...)</span>
-                <span class="method-start">48272 ms</span>
+                <span class="method-name">AddEmployees(Admin, admin123, Pidgey, Pidgeotto, Pidgeotto, 017, \Images\Pidgeotto.png, Pidgeotto, HaaHaaHaa, Haa...)</span>
+                <span class="method-start">49644 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">61927 ms</span>
+                <span class="method-start">67595 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">Setup</span>
-                <span class="method-start">63400 ms</span>
+                <span class="method-start">67596 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, D:\Java\Eclipse\Testing\OrangeHRM\Images\Butter...)</span>
-                <span class="method-start">73558 ms</span>
+                <span class="method-name">AddEmployees(Admin, admin123, Caterpee, Metapod, Butterfree, 012, \Images\Butterfree.png, Butterfree, FreeFreeFre...)</span>
+                <span class="method-start">76757 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">82847 ms</span>
+                <span class="method-start">92403 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">Setup</span>
-                <span class="method-start">83665 ms</span>
+                <span class="method-start">92404 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, D:\Java\Eclipse\Testing\OrangeHRM\Images\C...)</span>
-                <span class="method-start">91317 ms</span>
+                <span class="method-name">AddEmployees(Admin, admin123, Charmander, Charmander, Charmander, 004, \Images\Charmander.png, Charmander, PikaPi...)</span>
+                <span class="method-start">102452 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">100912 ms</span>
+                <span class="method-start">115583 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">Setup</span>
-                <span class="method-start">101739 ms</span>
+                <span class="method-start">115584 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, D:\Java\Eclipse\Testing\OrangeHRM\Images\Squirtl...)</span>
-                <span class="method-start">108448 ms</span>
+                <img src="failed.png">
+                </img>
+                <span class="method-name">AddEmployees(Admin, admin123, Squirtle, Squirtle, Squirtle, 025, \Images\Squirtle.png, Squirtle, SquirtleSquirt, ...)</span>
+                <span class="method-start">125751 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">122405 ms</span>
+                <span class="method-start">137130 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">Setup</span>
-                <span class="method-start">123602 ms</span>
+                <span class="method-start">137876 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, D:\Java\Eclipse\Testing\OrangeHRM\Images\Bulb...)</span>
-                <span class="method-start">131887 ms</span>
+                <span class="method-name">AddEmployees(Admin, admin123, Bulbasaur, Bulbasaur, Bulbasaur, 001, \Images\Bulbasaur.png, Bulbasaur, BulbaBulb, ...)</span>
+                <span class="method-start">145872 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">141167 ms</span>
-              </div> <!-- configuration-method after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.Orange.testCases.CandidateDetailsTest</div> <!-- chronological-class-name -->
-              <div class="configuration-method before">
-                <span class="method-name">Setup</span>
-                <span class="method-start">142089 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">DownloadCV(Admin, admin123)</span>
-                <span class="method-start">149853 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">CloseBrowser</span>
-                <span class="method-start">159305 ms</span>
+                <span class="method-start">159698 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

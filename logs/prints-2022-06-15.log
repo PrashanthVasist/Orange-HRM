@@ -1,0 +1,7 @@
+18:35:58.569 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+18:36:00.644 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+18:36:04.216 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+18:36:08.773 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+18:36:18.348 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+18:36:18.349 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+18:36:19.401 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
