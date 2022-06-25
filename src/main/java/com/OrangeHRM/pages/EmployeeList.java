@@ -41,20 +41,19 @@ public class EmployeeList extends OrangeBase{
 		midName.sendKeys(mName);
 		lastName.sendKeys(lName);
 		id.sendKeys(ID);
-		photo.sendKeys(pic);
+		photo.sendKeys(System.getProperty("user.dir")+pic);
 		createLogin.click();
 		userName.sendKeys(uName);
 		userPassword.sendKeys(pwd);
 		confirmPassword.sendKeys(repwd);
 		save.click();
+		
+		Thread.sleep(1500);
+		
+		
 //		wait.until(ExpectedConditions.invisibilityOfElementLocated(By.id("btnSave")));
 		
 	}
 	
-	public void EmpRepeat(String fName, String mName, String lName, String ID, String pic, String uName, String pwd, String repwd) throws InterruptedException
-	{
-//		EmployeeList EL = new EmployeeList();
-		AddEmployees(fName, mName, lName, ID, pic, uName, pwd, repwd);
-	}
 }
 

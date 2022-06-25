@@ -8,7 +8,6 @@
     <classes>
       <class name="com.Orange.testCases.LoginPageTest"/>
       <class name="com.Orange.testCases.EmployeeListTest"/>
-      <class name="com.Orange.testCases.CandidateDetailsTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

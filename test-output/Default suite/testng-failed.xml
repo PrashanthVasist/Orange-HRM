@@ -7,7 +7,7 @@
         <methods>
           <include name="teardown"/>
           <include name="Setup"/>
-          <include name="AddEmployees" invocation-numbers="0 1"/>
+          <include name="AddEmployees" invocation-numbers="4"/>
         </methods>
       </class> <!-- com.Orange.testCases.EmployeeListTest -->
     </classes>

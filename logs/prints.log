@@ -1,6 +1,424 @@
-13:51:41.641 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
-13:51:41.646 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
-13:51:44.386 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
-13:52:00.127 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
-13:52:00.127 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
-13:52:01.681 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+18:36:21.566 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+18:36:24.960 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:42:47.005 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:42:47.007 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:42:53.726 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:42:54.889 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:42:58.736 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:43:07.160 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:43:07.161 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:43:08.579 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:43:11.305 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:43:14.904 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:43:26.749 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:43:26.750 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:43:29.296 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:43:33.269 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:43:36.938 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:43:56.331 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:43:56.332 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:43:57.881 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:44:01.800 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:44:06.408 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:44:15.687 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:44:15.687 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:44:16.693 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:44:18.848 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:51:51.307 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:51:51.310 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:51:53.509 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:51:56.896 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:52:01.180 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:52:13.969 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:52:13.969 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:52:15.618 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:52:19.454 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:52:25.087 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:52:38.097 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:52:38.097 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:52:39.442 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:52:43.389 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:52:49.080 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:52:59.287 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:52:59.287 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:53:00.642 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:53:03.192 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:55:06.666 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:55:06.670 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:55:08.884 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:55:12.851 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:55:16.643 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:55:29.465 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:55:29.465 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:55:31.042 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:55:36.336 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+07:55:40.098 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+07:55:49.318 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+07:55:49.318 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+07:55:51.451 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+07:55:53.983 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:11:37.062 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:11:37.081 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:11:44.082 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:11:45.796 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:11:53.095 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:12:04.916 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:12:04.917 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:12:07.148 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:12:09.993 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:12:14.770 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:12:25.800 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:12:25.800 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:12:29.525 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:12:32.757 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:12:40.521 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:12:54.848 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:12:54.849 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:12:57.012 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:12:58.662 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:13:02.286 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:13:04.895 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:13:04.895 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:13:07.313 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:13:08.866 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:14:16.686 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:14:16.689 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:14:18.023 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:14:20.553 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:14:25.996 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:16:23.068 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:16:23.073 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:16:26.131 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:16:28.461 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:16:37.527 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:18:19.000 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:18:19.003 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:18:22.363 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:18:24.797 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:18:29.410 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:18:43.224 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:18:43.225 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:18:45.162 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:18:50.902 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:18:55.744 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:19:07.225 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:19:07.225 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:19:08.722 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:19:12.591 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:19:17.720 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:19:28.371 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:19:28.371 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:19:30.640 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:19:33.105 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:19:37.513 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:19:49.668 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:19:49.668 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:19:52.491 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:19:56.793 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:20:04.026 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:20:14.676 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:20:14.676 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:20:15.884 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:20:19.065 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:20:25.043 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:27:23.504 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:27:23.507 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:27:24.875 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:27:28.294 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:27:32.666 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:27:41.408 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:27:41.408 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:27:43.693 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:27:46.065 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:27:51.552 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:28:02.218 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:28:02.218 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:28:03.567 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:28:07.653 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:28:14.389 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:28:25.029 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:28:25.029 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:28:26.482 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:28:28.401 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:28:33.249 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:28:44.038 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:28:44.038 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:28:46.033 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:28:48.450 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:28:56.711 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:29:10.243 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:29:10.244 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:29:11.632 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:29:13.739 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:29:20.254 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:32:31.900 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:32:31.903 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:32:33.833 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:32:38.206 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:32:44.631 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:32:56.543 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:32:56.543 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:33:02.063 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:33:06.499 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:33:11.863 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:33:28.665 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:33:28.666 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:33:31.303 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:33:34.307 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:33:41.823 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:33:56.645 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:33:56.646 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:33:58.111 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:34:00.143 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:34:05.773 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:34:15.680 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:34:15.681 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:34:18.300 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:34:20.265 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:34:24.712 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:34:36.926 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:34:36.926 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:34:37.993 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:34:40.745 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:34:45.869 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:42:04.421 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:42:04.424 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:42:08.794 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:42:11.189 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:42:16.100 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:42:26.981 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:42:26.981 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:42:30.006 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:42:32.523 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:42:37.761 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:42:50.457 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:42:50.457 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:42:54.394 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:42:56.809 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:43:03.248 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:43:22.556 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:43:22.556 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:43:23.708 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:43:28.753 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:43:34.077 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:43:44.713 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:43:44.714 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:43:45.751 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:43:49.295 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:43:55.524 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:44:06.104 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:44:06.104 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:44:07.683 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:44:11.992 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:44:16.348 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:47:37.406 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:47:37.409 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:47:39.747 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:47:42.883 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:47:47.496 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:47:58.178 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:47:58.178 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:47:59.392 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:48:03.470 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:48:09.170 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:48:21.060 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:48:21.060 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:48:22.053 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:48:24.804 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:48:29.551 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:48:40.194 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:48:40.194 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:48:41.362 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:48:43.828 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:48:48.229 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:49:00.090 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:49:00.090 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:49:00.965 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:49:02.511 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:50:31.889 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:50:31.891 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:52:44.001 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:52:44.005 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:52:47.761 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:52:50.183 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:52:57.705 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:53:07.874 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:53:07.874 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:53:10.113 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:53:12.776 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:53:18.442 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:53:29.776 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:53:29.777 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:53:30.826 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:53:33.547 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:53:38.555 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:53:50.255 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:53:50.256 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:53:51.794 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:53:54.765 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:53:59.625 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:54:11.942 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:54:11.942 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:54:14.991 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:54:17.443 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:54:24.808 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:54:35.493 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:54:35.494 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:54:38.005 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:54:41.370 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:54:48.127 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:59:22.876 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:59:22.891 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:59:26.106 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:59:28.595 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+08:59:37.432 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+08:59:53.602 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+08:59:53.603 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+08:59:56.482 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+08:59:58.803 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+09:00:04.829 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+09:00:23.212 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+09:00:23.213 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+09:00:26.090 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+09:00:32.348 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+09:00:40.952 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+09:00:57.693 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+09:00:57.696 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+09:00:59.367 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+09:01:01.948 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+09:01:07.350 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+09:01:28.877 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+09:01:28.879 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+09:01:33.515 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+09:01:36.461 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+09:01:41.322 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+09:01:53.795 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+09:01:53.796 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+09:01:57.045 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+09:02:01.068 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+09:02:05.854 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+09:02:24.103 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+09:02:24.104 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+09:02:26.123 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+09:02:29.013 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+09:02:33.881 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+09:02:46.078 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+09:02:46.078 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+09:02:47.535 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+09:02:49.641 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+09:02:55.562 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:38:15.351 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:38:15.456 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:38:23.084 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:38:24.927 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:38:30.229 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:38:37.383 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:38:37.384 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:38:38.537 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:38:41.455 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:38:45.072 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:39:00.780 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:39:00.780 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:39:02.267 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:39:06.021 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:39:10.692 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:39:25.067 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:39:25.069 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:39:27.121 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:39:28.973 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:39:32.898 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:39:47.472 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:39:47.473 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:39:50.218 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:39:53.017 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:39:56.616 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:40:13.922 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:40:13.923 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:40:16.287 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:40:19.415 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:40:23.341 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:40:39.526 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:40:39.528 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:40:43.866 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:40:46.538 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:40:50.927 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:41:05.079 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:41:05.079 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:41:06.544 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:41:09.848 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:41:13.472 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:46:55.556 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:46:55.573 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:46:58.643 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:47:00.896 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:47:04.838 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:47:12.274 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:47:12.274 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:47:14.973 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:47:17.135 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:47:20.818 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:47:40.027 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:47:40.029 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:47:42.546 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:47:45.236 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:47:49.612 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:48:11.788 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:48:11.789 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:48:13.834 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:48:18.591 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:48:24.168 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:48:36.150 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:48:36.151 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:48:37.946 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:48:40.157 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:48:44.821 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:48:56.127 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:48:56.129 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:48:57.865 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:49:01.128 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:49:06.155 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:49:23.940 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:49:23.941 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:49:25.757 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:49:30.277 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:49:34.679 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:49:47.493 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:49:47.494 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:49:49.180 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:49:53.273 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:49:57.560 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:55:55.167 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:55:55.169 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:55:57.032 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:55:59.784 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:56:04.512 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:56:11.150 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:56:11.151 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:56:12.775 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:56:15.478 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:56:19.705 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:56:36.039 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:56:36.040 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:56:37.595 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:56:39.524 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:56:44.802 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:57:02.755 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:57:02.756 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:57:05.419 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:57:08.162 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:57:11.915 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:57:27.564 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:57:27.565 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:57:30.158 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:57:33.076 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:57:37.254 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:57:50.744 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:57:50.745 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:57:53.116 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:57:55.630 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:58:00.909 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
+12:58:13.035 [main] INFO  com.OrangeHRM.Base.OrangeBase - Initializing WebDriver
+12:58:13.036 [main] INFO  com.OrangeHRM.Base.OrangeBase - WebDriver is now Initialized
+12:58:14.622 [main] INFO  com.OrangeHRM.Base.OrangeBase - chrome is up and running
+12:58:17.061 [main] INFO  com.OrangeHRM.Base.OrangeBase - Opening the URL
+12:58:21.029 [main] INFO  com.OrangeHRM.Base.OrangeBase - URL opened successfully
