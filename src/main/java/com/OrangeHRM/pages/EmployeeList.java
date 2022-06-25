@@ -48,7 +48,7 @@ public class EmployeeList extends OrangeBase{
 		confirmPassword.sendKeys(repwd);
 		save.click();
 		
-		Thread.sleep(1500);
+		Thread.sleep(3500);
 		
 		
 //		wait.until(ExpectedConditions.invisibilityOfElementLocated(By.id("btnSave")));
