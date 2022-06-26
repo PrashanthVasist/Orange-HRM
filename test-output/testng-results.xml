@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results total="8" passed="8" failed="0" skipped="0">
+<testng-results total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-25T07:08:14Z" name="Suite" finished-at="2022-06-25T07:11:26Z" duration-ms="192261">
+  <suite started-at="2022-06-26T03:09:02Z" name="Suite" finished-at="2022-06-26T03:11:46Z" duration-ms="163529">
     <groups>
     </groups>
-    <test started-at="2022-06-25T07:08:14Z" name="Test" finished-at="2022-06-25T07:11:26Z" duration-ms="192261">
-      <class name="com.Orange.testCases.CandidateDetailsTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.CandidateDetailsTest@7d2a6eac]" started-at="2022-06-25T12:41:05Z" name="Setup" finished-at="2022-06-25T12:41:13Z" duration-ms="8394" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Setup -->
-        <test-method signature="DownloadCV(java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.CandidateDetailsTest@7d2a6eac]" started-at="2022-06-25T12:41:13Z" name="DownloadCV" description="Download CV for Validation" data-provider="getTestData" finished-at="2022-06-25T12:41:25Z" duration-ms="12146" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Admin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[admin123]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- DownloadCV -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.Orange.testCases.CandidateDetailsTest@7d2a6eac]" started-at="2022-06-25T12:41:26Z" name="CloseBrowser" finished-at="2022-06-25T12:41:26Z" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CloseBrowser -->
-      </class> <!-- com.Orange.testCases.CandidateDetailsTest -->
+    <test started-at="2022-06-26T03:09:02Z" name="Test" finished-at="2022-06-26T03:11:46Z" duration-ms="163529">
       <class name="com.Orange.testCases.EmployeeListTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:38:37Z" name="Setup" finished-at="2022-06-25T12:38:45Z" duration-ms="7697" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:39:19Z" name="Setup" finished-at="2022-06-26T08:39:28Z" duration-ms="9725" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:38:45Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-25T12:38:59Z" duration-ms="14143" status="PASS">
+        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:39:28Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-26T08:39:40Z" duration-ms="11465" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -93,15 +67,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddEmployees -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:00Z" name="teardown" finished-at="2022-06-25T12:39:00Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:39:40Z" name="teardown" finished-at="2022-06-26T08:39:40Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:00Z" name="Setup" finished-at="2022-06-25T12:39:10Z" duration-ms="9913" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:39:40Z" name="Setup" finished-at="2022-06-26T08:39:50Z" duration-ms="9920" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:10Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-25T12:39:24Z" duration-ms="13620" status="PASS">
+        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:39:50Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-26T08:40:04Z" duration-ms="13671" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -157,15 +131,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddEmployees -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:25Z" name="teardown" finished-at="2022-06-25T12:39:25Z" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:25Z" name="Setup" finished-at="2022-06-25T12:39:32Z" duration-ms="7834" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:40:05Z" name="Setup" finished-at="2022-06-26T08:40:13Z" duration-ms="8677" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:32Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-25T12:39:46Z" duration-ms="13812" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:40:05Z" name="teardown" finished-at="2022-06-26T08:40:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:40:13Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-26T08:40:29Z" duration-ms="16098" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -221,15 +195,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddEmployees -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:47Z" name="teardown" finished-at="2022-06-25T12:39:47Z" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:40:32Z" name="teardown" finished-at="2022-06-26T08:40:32Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:47Z" name="Setup" finished-at="2022-06-25T12:39:56Z" duration-ms="9145" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:40:32Z" name="Setup" finished-at="2022-06-26T08:40:41Z" duration-ms="9135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:39:56Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-25T12:40:13Z" duration-ms="16401" status="PASS">
+        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:40:41Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-26T08:40:57Z" duration-ms="16033" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -285,15 +259,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddEmployees -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:40:13Z" name="teardown" finished-at="2022-06-25T12:40:13Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:40:58Z" name="teardown" finished-at="2022-06-26T08:40:58Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:40:13Z" name="Setup" finished-at="2022-06-25T12:40:23Z" duration-ms="9420" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:40:58Z" name="Setup" finished-at="2022-06-26T08:41:08Z" duration-ms="10167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:40:23Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-25T12:40:37Z" duration-ms="14323" status="PASS">
+        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:41:08Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-26T08:41:21Z" duration-ms="13147" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -349,15 +323,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddEmployees -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:40:39Z" name="teardown" finished-at="2022-06-25T12:40:39Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:41:23Z" name="teardown" finished-at="2022-06-26T08:41:23Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:40:39Z" name="Setup" finished-at="2022-06-25T12:40:50Z" duration-ms="11403" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:41:23Z" name="Setup" finished-at="2022-06-26T08:41:32Z" duration-ms="9344" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:40:50Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-25T12:41:04Z" duration-ms="13224" status="PASS">
+        <test-method signature="AddEmployees(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:41:32Z" name="AddEmployees" data-provider="getTestData" finished-at="2022-06-26T08:41:44Z" duration-ms="12090" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -413,17 +387,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddEmployees -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@6c2f1700]" started-at="2022-06-25T12:41:05Z" name="teardown" finished-at="2022-06-25T12:41:05Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Orange.testCases.EmployeeListTest@4201a617]" started-at="2022-06-26T08:41:46Z" name="teardown" finished-at="2022-06-26T08:41:46Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.Orange.testCases.EmployeeListTest -->
       <class name="com.Orange.testCases.LoginPageTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.LoginPageTest@18ca3c62]" started-at="2022-06-25T12:38:15Z" name="Setup" finished-at="2022-06-25T12:38:30Z" duration-ms="14921" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Orange.testCases.LoginPageTest@4102b1b1]" started-at="2022-06-26T08:39:03Z" name="Setup" finished-at="2022-06-26T08:39:12Z" duration-ms="9223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="loginValidation(java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.LoginPageTest@18ca3c62]" started-at="2022-06-25T12:38:30Z" name="loginValidation" data-provider="getTestData" finished-at="2022-06-25T12:38:36Z" duration-ms="6235" status="PASS">
+        <test-method signature="loginValidation(java.lang.String, java.lang.String)[pri:0, instance:com.Orange.testCases.LoginPageTest@4102b1b1]" started-at="2022-06-26T08:39:12Z" name="loginValidation" data-provider="getTestData" finished-at="2022-06-26T08:39:18Z" duration-ms="6147" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -439,7 +413,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Orange.testCases.LoginPageTest@18ca3c62]" started-at="2022-06-25T12:38:37Z" name="tearDown" finished-at="2022-06-25T12:38:37Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Orange.testCases.LoginPageTest@4102b1b1]" started-at="2022-06-26T08:39:19Z" name="tearDown" finished-at="2022-06-26T08:39:19Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
